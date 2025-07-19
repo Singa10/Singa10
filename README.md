@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**Singa10/Singa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Singitan Niguse, an aspiring developer with a passion for building innovative web applications. Let's create something amazing together!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a dedicated developer located in an unknown location, focusing on enhancing my skills and contributing to exciting projects. I'm currently exploring various technologies and looking for opportunities to learn and grow.
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,tailwind&perline=8)](https://skillicons.dev)
+
+## Top Projects
+
+
+
+
+
+## Connect with Me
+
+Gmail:singitannuguse@gmail.com
+
+Telegram:jack@181222
