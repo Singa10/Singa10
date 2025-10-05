@@ -12,8 +12,11 @@ I am a dedicated developer located in  Ethiopia,Addis Ababa, focusing on enhanci
 
 ## Top 4 Projects
 1.Commercial platform connecting importer and exporter company with it's customers.it has features such as company profile display,showcase of products and multi-language support.(https://singa10.github.io/emaz-import-export-plc/)
+
 2.Modern E-Commerce Online Food Ordering Website for Fried chicken Restaurant With One Click Ordering and responsive design.(https://singa10.github.io/twisters-fried-chicken-/)
+
 3.carefully crafted and responsive coffee website that reflects the particular coffee shop nicely(https://singa10.github.io/brothers-coffee/)
+
 4.user friendly and responsive tour website that provides online booking system (https://singa10.github.io/evangadi-tour/)
  
 
