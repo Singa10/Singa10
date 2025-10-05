@@ -4,7 +4,7 @@ I'm Singitan Niguse, an aspiring developer with a passion for building innovativ
 
 ## About Me
 
-I am a dedicated developer located in an unknown location, focusing on enhancing my skills and contributing to exciting projects. I'm currently exploring various technologies and looking for opportunities to learn and grow.
+I am a dedicated developer located in  Ethiopia,Addis Ababa, focusing on enhancing my skills and contributing to exciting projects. I'm currently exploring various technologies and looking for opportunities to learn and grow.
 
 ## Skills & Technologies
 
